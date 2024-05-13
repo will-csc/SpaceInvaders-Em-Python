@@ -34,3 +34,6 @@ Space Shooter é um jogo de tiro em que você controla uma nave espacial para de
 
 ## Créditos ao Canal que me ajudou a montar esse projeto
 https://www.youtube.com/watch?v=Q-__8Xw9KTM
+
+## Principal Linguagem Utilizada
+<img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
