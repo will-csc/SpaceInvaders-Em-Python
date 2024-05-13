@@ -31,3 +31,6 @@ Space Shooter é um jogo de tiro em que você controla uma nave espacial para de
 2. Instale as dependências do Python usando pip:
 
 3. Execute o jogo:
+
+## Créditos ao Canal que me ajudou a montar esse projeto
+https://www.youtube.com/watch?v=Q-__8Xw9KTM
